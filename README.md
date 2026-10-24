@@ -87,9 +87,10 @@ Select-Phone/
 ├── scripts/                 # Chứa các script bổ trợ dự án
 ├── package.json             # Khai báo các thư viện phụ thuộc và lệnh thực thi (scripts)
 └── tsconfig.json            # Cấu hình TypeScript cho dự án
-````,
+````
 
 ## Giải thích chi tiết
+
 - 1. Thư mục src/app/ (Expo Router - File-based Routing)
 index.tsx (Root Menu): Màn hình đầu tiên xuất hiện khi mở app, đóng vai trò như một Menu tổng giúp chọn nhanh giữa các bài tập (Bài 1&2, Bài 3&4, Bài 5).
 
