@@ -87,6 +87,7 @@ Select-Phone/
 ├── scripts/                 # Chứa các script bổ trợ dự án
 ├── package.json             # Khai báo các thư viện phụ thuộc và lệnh thực thi (scripts)
 └── tsconfig.json            # Cấu hình TypeScript cho dự án
+````,
 
 ## Giải thích chi tiết
 - 1. Thư mục src/app/ (Expo Router - File-based Routing)
